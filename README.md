@@ -15,13 +15,7 @@ A Python project that detects spam emails using the Naive Bayes classification a
 - scikit-learn
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-  git clone https://github.com/YOUR_USERNAME/spam-mail-detector.git
-2.Install dependencies:
-  pip install -r requirements.txt
-3. Run the script:
-  python spam_detector.py
-
+```bash
+git clone https://github.com/YOUR_USERNAME/spam-mail-detector.git && cd spam-mail-detector && pip install -r requirements.txt && python spam_detector.py
    
 
